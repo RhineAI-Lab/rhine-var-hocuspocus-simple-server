@@ -136,3 +136,6 @@ package-lock.json
 # IDE
 .vscode/
 .idea/
+
+# DATABASE
+db.sqlite
